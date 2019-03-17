@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho01</string>
+    <string name="stringHint">Status do Toggle Button</string>
+    <string name="content">Toggle Button</string>
+    <string name="textOff">TURN ON</string>
+    <string name="textTurnOn">TURN OFF</string>
+    <string name="textOn">TURN OFF</string>
+    <string name="name">Name</string>
+</resources>

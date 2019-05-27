@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182086374516",
+    "firebase_url": "https://agendaapp-6ff6c.firebaseio.com",
+    "project_id": "agendaapp-6ff6c",
+    "storage_bucket": "agendaapp-6ff6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182086374516:android:367dfd9d6083fc58",
+        "android_client_info": {
+          "package_name": "br.ufc.quixada.dadm.variastelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182086374516-id05jan4ljgbvjqsbquv6crbipk7jt56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ufc.quixada.dadm.variastelas",
+            "certificate_hash": "3b7c07cda8efca5b89ffaed86e7d70d2692fac03"
+          }
+        },
+        {
+          "client_id": "182086374516-gbdh3l1no3ep574plkfrushla07pjjmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3U3BMRU4JYDevtvEE9Z-LjnsZOFvDcVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182086374516-gbdh3l1no3ep574plkfrushla07pjjmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
